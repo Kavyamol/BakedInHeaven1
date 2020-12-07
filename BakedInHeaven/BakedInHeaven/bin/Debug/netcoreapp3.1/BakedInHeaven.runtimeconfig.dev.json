@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Kavyamol R\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Kavyamol R\\.nuget\\packages"
+    ]
+  }
+}
